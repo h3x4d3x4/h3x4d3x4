@@ -62,6 +62,23 @@ Stops a MacBook starting up when you open the lid or plug in power.
 <code>brew install --cask h3x4d3x4/tap/lidboot</code>
 </td>
 </tr>
+<tr>
+<td valign="top">
+<img src="assets/icons/tidegrab.png" width="40" align="left" alt="" />
+<b><a href="https://tidegrab.hexadexa.io">TideGrab</a></b><br/>
+<sub>macOS · beta</sub><br clear="left"/>
+Saves video and audio from about 1,800 sites, or catches what a page plays: playlists,
+channels and live streams, without re-encoding.
+<a href="https://github.com/h3x4d3x4/TideGrab-Releases">Downloads</a>
+</td>
+<td valign="top">
+<img src="assets/icons/assay.png" width="40" align="left" alt="" />
+<b><a href="https://assay.hexadexa.io">Assay</a></b><br/>
+<sub>Web</sub><br clear="left"/>
+Ad blocker test that only reports what it can prove, cross-checking every probe against its
+own server and nameserver.
+</td>
+</tr>
 </table>
 
 <p align="center">
